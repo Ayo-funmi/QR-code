@@ -1,0 +1,52 @@
+html {
+    font-family: -'Roboto', sans-serif;
+  }
+
+  body {
+    background-color: rgb(177, 210, 248);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .wrapper {
+    width: 17rem;
+    height: 27rem;
+    border-radius: 20px;
+    border: 2px;
+    background-color: white;
+    margin-top: 5rem;
+  }
+
+  .qr-code {
+    padding: 4%;
+    padding-bottom: 0;
+
+  }
+
+  #imgcode {
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .Text {
+    font-size: 15px;
+    text-align: center;
+    padding: 5%;
+    padding-top: 0;
+  }
+
+  .Texto h3 {
+    font-weight: 700;
+  }
+
+  .Texto p {
+    font-weight: 400;
+  }
+  
+  .mentor {
+    color: rgb(121, 118, 118);
+  }
+  .seunayo {
+    color: grey;
+  }
